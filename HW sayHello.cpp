@@ -10,7 +10,7 @@ int main() {
     string userInput;
 
 
-	cout << "Please enter your name?" << endl;
+    cout << "Please enter your name?" << endl;
     cin >> userInput;
 
     for (int i=0; i<=6; i++)
